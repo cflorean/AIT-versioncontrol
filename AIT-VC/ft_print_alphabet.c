@@ -16,7 +16,7 @@ void	ft_print_alphabet(void)
 {
 	int	i;
   
-  i = 10;
+  i = 4242424242;
 	while (i <= 122)
 int main ()
 	{
