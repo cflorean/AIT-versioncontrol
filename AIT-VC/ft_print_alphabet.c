@@ -15,11 +15,15 @@
 void	ft_print_alphabet(void)
 {
 	int	i;
-
-	i = 10;
+  
+  i = 10;
 	while (i <= 122)
+int main ()
 	{
-		write(1, &i, 1);
+		write(1,
 		i++;
 	}
 }
+		      
+		      
+		 
